@@ -1,0 +1,53 @@
+{
+	"details":{
+		"image":"image.png",
+		"name":"kavi",
+		"phoneno":"91+9875767878",
+		"email":"narukavithareddy@gmail.com",
+		"address":"vignan's nirula,guntur"
+	},
+	"carrer":{
+		 "info":"uefyhh khfiuhf khfwi"
+	},
+	"educationalqualification":[{
+           "qualification":"btech",
+           "institute":"vignan's nirula",
+           "percentage":"94%"
+	},
+	{
+		 "qualification":"inter",
+           "institute":"srichaitanya",
+           "percentage":"95%"
+	},
+	{
+		 "qualification":"ssc",
+           "institute":"clr school",
+           "percentage":"96%"
+	}
+],
+	"skills":[{
+		"title":"programming languages",
+		"info":["c","java","c++","python","r"]
+	},
+	{
+		"title":"databases",
+		"info":["sql","mysql","oracle"]
+	},
+	{
+		"title":"operating systems",
+		"info":["windows","linux","ubuntu","mac"]
+	}
+	
+	
+	
+],
+	"achievements":[
+     {
+		"title":"got certified in IOT"
+	},
+	{
+		"title":"got certified in ppt"
+	}
+	]
+}
+
